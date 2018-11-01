@@ -4,8 +4,8 @@ public class Test1 {
 
 	public static void main(String[] args) 	throws Exception{
 		
-		String file1 = "/Users/juan padilla/Documents/EstadosCuenta/Banamex/PagoBanamexPlatinumMesAgosto2018.pdf";
-		String file2 = "/Users/juan padilla/Documents/EstadosCuenta/Banamex/PagoBanamezPlatinumMesSeptiembre2018.pdf";
+		String file1 = "/Users/juan padilla/Documents/EstadosCuenta/Banamex/nameofFile.pdf";
+		String file2 = "/Users/juan padilla/Documents/EstadosCuenta/Banamex/nameOfFile.pdf";
 		String resultFile = "/Users/juan padilla/Documents/EstadosCuenta/Banamex/Resultado/result";
 		
 		//new PdfComparator(file1, file2).compare().writeTo(resultFile);
